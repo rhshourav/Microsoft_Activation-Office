@@ -266,7 +266,7 @@ mode 76, 30
 echo:
 echo:
 echo:
-echo:
+echo:		Activator by RHShourav.
 echo:       ______________________________________________________________
 echo:
 echo:                 Activation Methods:

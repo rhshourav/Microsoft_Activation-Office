@@ -1787,7 +1787,6 @@ $MemoryStream.Close()
 ::  stackoverflow.com/a/35335273
 ::  Here you can check how to extract sppc.dll files from base64
 ::
-::  For any further question, feel free to contact us on mass grave[.]dev/contactus
 ::
 ::========================================================================================================================================
 
